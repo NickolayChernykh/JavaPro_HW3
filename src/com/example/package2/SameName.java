@@ -1,4 +1,4 @@
-package package2;
+package com.example.package2;
 
 /**
  * Created by Chernykh on 04.09.2022
