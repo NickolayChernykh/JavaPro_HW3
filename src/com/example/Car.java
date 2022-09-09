@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * Created by Chernykh on 04.09.2022
  */
